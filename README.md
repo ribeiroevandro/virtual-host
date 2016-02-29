@@ -1,4 +1,4 @@
-# Create virtual host in Mac OSx
+# Create virtual host in Mac OSx or Linux
 
 > Script para criação de virtal host.
 
